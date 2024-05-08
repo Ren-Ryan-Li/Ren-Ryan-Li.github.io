@@ -21,7 +21,7 @@ repository               : "Ren-Ryan-Li/Ren-Ryan-Li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Me.png"
   name             : "Ren Li"
   pronouns         : # example: "she/her"  
   bio              : "On the road"
