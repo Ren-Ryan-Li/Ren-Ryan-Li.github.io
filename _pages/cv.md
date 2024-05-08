@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-; Liren
 * M.S. in Fintech, Nankai University, 2024-2026
 * B.A. in Finance, Nankai University, 2020-2024
 
