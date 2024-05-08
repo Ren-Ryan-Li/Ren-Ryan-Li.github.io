@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate studying finance and statistics at the [School of Finance](http://en.finance.nankai.edu.cn/), [Nankai University](https://en.nankai.edu.cn/). 
+Welcome! My name is Ren (Ryan) Li. I am a senior undergraduate studying finance and statistics and an incoming master's student of Fintech at the [School of Finance](http://en.finance.nankai.edu.cn/), [Nankai University](https://en.nankai.edu.cn/). During my bachelor's studies, I have found an extraordinary passion for utilizing mathematical models and computer programming to solve real-world problems and to reveal the underlying mechanisms of the business and financial world. After taking courses and conducting research in various domains of finance, statistics, and artificial intelligence, my current research interests have been in Financial Econometrics, Asset Pricing, Operations Research, and Machine Learning. 
 
 A data-driven personal website
 ======
