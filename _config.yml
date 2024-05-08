@@ -22,13 +22,13 @@ repository               : "Ren-Ryan-Li/Ren-Ryan-Li.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ren Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "On the road"
+  location         : "Tianjin, China"
+  employer         : "Nankai University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2013455@mail.nankai.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
