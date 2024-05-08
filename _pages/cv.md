@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+; Liren
 * M.S. in Fintech, Nankai University, 2024-2026
 * B.A. in Finance, Nankai University, 2020-2024
 
