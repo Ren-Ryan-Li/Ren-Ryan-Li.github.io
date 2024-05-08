@@ -15,4 +15,4 @@ During my bachelor's studies, I have found an extraordinary passion for utilizin
 
 Aspiring to address frontier problems in the real world and delve into the fundamentals of finance and management with precise mathematical and simulation methods, I am committed to pursuing a p.h.d. in Operations Research, Financial Engineering, Fintech, and Management Science. 
 
-[Email](2013455@mail.nankai.edu.cn)/[Wechat](../images/Wechat.jpg)/[twitter](https://twitter.com/RyanLee32714932)/[Github](https://github.com/Ren-Ryan-Li)
+[Email](mailto:2013455@mail.nankai.edu.cn)/[Wechat](../images/Wechat.jpg)/[twitter](https://twitter.com/RyanLee32714932)/[Github](https://github.com/Ren-Ryan-Li)
