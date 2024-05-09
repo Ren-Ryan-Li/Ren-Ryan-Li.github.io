@@ -22,30 +22,27 @@ RESEARCH EXPERIENCE
 
 * [**Exploration of the Influencing Factors of Stock Market Volatility**](../assets/股票市场波动性的影响因子探究.pdf)  
   _Undergraduate Thesis_, _May. 2024_  
-  This paper adopts a combination of theoretical analysis, descriptive statistical analysis, and　empirical analysis to study the stock market herding effect and the factors influencing stock market volatility.
+  This paper adopts a combination of theoretical analysis, descriptive statistical analysis, and empirical analysis to study the static and dynamic stock market herding effect and the factors influencing stock market volatility.
 
 Internship experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
+* **Soochow Securities Co., Ltd., Equity Research Intern**  
+  _Media and Internet Sector_, _Dec. 2022-Feb. 2023_  
+  * **Data Analysis:** Search data from the Choice, Wind database and public information; Collect industry and key enterprise financial and operating data; Use Excel to integrate analysis and draw graphics;  
+  * **Industry Research:** Participate in road shows, earning calls, etc., and take meeting minutes; Assist in predicting the future trend of the Internet e-commerce industry by calculating market share and sinking market growth rate; Sort out the government regulatory policies of the Internet industry from 2019 to 2022, and analyze the impact of government’s policy shifts on the Internet platform economy;  
+  * **In-depth Research:** Participate in co-authoring the comprehensive report _“The Review and Outlook of the Hong Kong Stock Exchange’s Bull Market”_, which reviews the bull market of the Hong Kong Stock Exchange from 2002 to 2023, focusing on economic fundamentals, government policies, domestic and international liquidity, and valuation factors. The report also compares the Hang Seng Index with the CSI 300 index and the S&P Index, concludes the reasons behind the bull market, and provides a forward-looking analysis of market prospects for both the Hong Kong stock market and the Internet sector.
 
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Everbright Securities Co., Ltd., Investment Banking Intern**  
+  _Debt Financing Headcount_, _Nov. 2023-Jan. 2024_  
+  * **Financial Analysis:** Conduct in-depth analysis of bond issuers' operating ability, solvency, profitability, and other financial conditions based on their financial reports, audit reports, and rating reports. Also, assess the impact of major events such as corporate mergers and acquisitions on their financial conditions;  
+  * **Document Preparation:** Write project initiation reports, prospectuses, explanatory documents, due diligence reports, bond redemption, and interest payment announcements for bond issuance (e.g., corporate bonds, inter-bank bonds, etc.).  Publish relevant documents on regulatory platforms such as the Shanghai Stock Exchange and Nafmii (National Association of Financial Market Institutional Investors);  
+  * **Market Research and Other Duties:** Refine and compile business, credit, financial, and other information of companies with potential debt financing needs; Analyze target customer companies; Attend training meetings held by Stock Exchanges and take meeting minutes; Complete other related tasks assigned by mentors.
   
 Skills
 ======
-* **Language**
+* **Language**  
   Chinese (Native), English(CET6 (601), IELTS (6.5))
-* **Coding**
+* **Coding**  
   Python (Efficient), R (Basic), MATLAB (Basic)  
   Machine Learning (Keras, Tensorflow, etc.), Data Processing (Pandas, Seaborn, etc.)
  
