@@ -16,17 +16,20 @@ Education
 
 RESEARCH EXPERIENCE
 ======
-* **Stock Return Based on the Multifactor Model with Stock Liquidity and Popularity**,  
+* [**Stock Return Based on the Multifactor Model with Stock Liquidity and Popularity**](../assets/知名度因子及流动性因子对股票收益率影响研究.pdf)  
    _Working Paper_, _Mar. 2023_  
-  Based on the dataset of the company stocks listed on the Beijing Stock Exchange, use the Fama-Macbeth regression method to examine the influence of the popularity and liquidity factors on the stock’s excess return.
+  Based on the dataset of the company stocks listed on the Beijing Stock Exchange, this paper uses the Fama-Macbeth regression method to examine the influence of the popularity and liquidity factors on the stock’s excess return.
 
+* [**Exploration of the Influencing Factors of Stock Market Volatility**](../assets/股票市场波动性的影响因子探究.pdf)
+  _Undergraduate Thesis_, _May. 2024_
+  This paper adopts a combination of theoretical analysis, descriptive statistical analysis, and　empirical analysis to study the stock market herding effect and the factors influencing stock market volatility.
 
 Internship experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+
 
 * Fall 2015: Research Assistant
   * Github University
@@ -40,31 +43,9 @@ Internship experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Language**
+  Chinese (Native), English(CET6 (601), IELTS (6.5))
+* **Coding**
+  Python (Efficient), R (Basic), MATLAB (Basic)  
+  Machine Learning (Keras, Tensorflow, etc.), Data Processing (Pandas, Seaborn, etc.)
+ 
