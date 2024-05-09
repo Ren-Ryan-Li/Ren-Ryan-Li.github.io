@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Curriculum Vitae PDF](../assets/CurriculumVitae.pdf)  
+
 Education
 ======
 * M.S. in Fintech, Nankai University, 2024-2026
