@@ -14,7 +14,15 @@ Education
 * M.S. in Fintech, Nankai University, 2024-2026
 * B.A. in Finance, Nankai University, 2020-2024
 
-Work experience
+RESEARCH EXPERIENCE
+======
+* Stock Return Based on the Multifactor Model with Stock Liquidity and Popularity
+  Working Paper, Mar 2023 
+  * Based on the dataset of the company stocks listed on the Beijing Stock Exchange, use 
+    the Fama-Macbeth regression method to examine the influence of the popularity factor 
+    and liquidity factor on the stock’s excess return.
+
+Internship experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
