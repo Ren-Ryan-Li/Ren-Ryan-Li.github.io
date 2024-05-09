@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-RESEARCH 
+  
+Research
 ======
 * [**Stock Return Based on the Multifactor Model with Stock Liquidity and Popularity**](../assets/知名度因子及流动性因子对股票收益率影响研究.pdf)  
    _Working Paper_, _Mar. 2023_  
@@ -16,6 +16,6 @@ RESEARCH
   _Undergraduate Thesis_, _May. 2024_  
   This paper adopts a combination of theoretical analysis, descriptive statistical analysis, and empirical analysis to study the static and dynamic stock market herding effect and the factors influencing stock market volatility.
 
-PUBLICATION
+Publication
 ======
 Waiting for more remarkable research jobs to build a solid foundation for publication.
