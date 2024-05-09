@@ -16,8 +16,8 @@ Education
 
 RESEARCH EXPERIENCE
 ======
-* **Stock Return Based on the Multifactor Model with Stock Liquidity and Popularity**,
-   _Working Paper_, _Mar. 2023_ 
+* **Stock Return Based on the Multifactor Model with Stock Liquidity and Popularity**,  
+   _Working Paper_, _Mar. 2023_  
   Based on the dataset of the company stocks listed on the Beijing Stock Exchange, use the Fama-Macbeth regression method to examine the influence of the popularity and liquidity factors on the stock’s excess return.
 
 
