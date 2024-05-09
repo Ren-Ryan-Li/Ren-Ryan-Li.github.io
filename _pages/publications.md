@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-Thanks for your curiosity! I'm passionate about acquiring more opportunities to enhance my research competence and appetite! 
+Thanks for your curiosity!  
+I'm passionate about acquiring more opportunities to enhance my research competence and appetite! 
 I'm seeking Research Assistant jobs in Finance, management science, and operations research for the summer of 2024 and later.
 
 Research
