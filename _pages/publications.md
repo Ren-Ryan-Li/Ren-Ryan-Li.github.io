@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-  
+Thanks for your curiosity! I'm passionate about acquiring more opportunities to enhance my research competence and appetite! 
+I'm seeking Research Assistant jobs in Finance, management science, and operations research for the summer of 2024 and later.
+
 Research
 ======
 * [**Stock Return Based on the Multifactor Model with Stock Liquidity and Popularity**](../assets/知名度因子及流动性因子对股票收益率影响研究.pdf)  
