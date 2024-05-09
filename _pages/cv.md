@@ -14,7 +14,7 @@ Education
 * M.S. in Fintech, Nankai University, 2024-2026
 * B.A. in Finance, Nankai University, 2020-2024
 
-RESEARCH EXPERIENCE
+Research Experience
 ======
 * [**Stock Return Based on the Multifactor Model with Stock Liquidity and Popularity**](../assets/知名度因子及流动性因子对股票收益率影响研究.pdf)  
    _Working Paper_, _Mar. 2023_  
@@ -24,7 +24,7 @@ RESEARCH EXPERIENCE
   _Undergraduate Thesis_, _May. 2024_  
   This paper adopts a combination of theoretical analysis, descriptive statistical analysis, and empirical analysis to study the static and dynamic stock market herding effect and the factors influencing stock market volatility.
 
-Internship experience
+Internship Experience
 ======
 * **Soochow Securities Co., Ltd., Equity Research Intern**  
   _Media and Internet Sector_, _Dec. 2022-Feb. 2023_  
