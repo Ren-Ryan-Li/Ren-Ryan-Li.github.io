@@ -26,6 +26,12 @@ Research Experience
   _Undergraduate Thesis_, _May. 2024_  
   This paper adopts a combination of theoretical analysis, descriptive statistical analysis, and empirical analysis to study the static and dynamic stock market herding effect and the factors influencing stock market volatility.
 
+Project Experience
+======
+* [**Time Series Prediction of Store Sales Based on LSTM and Several Models**](../assets/2013455_李任_机器学习大作业.pdf)  
+  _Personal Project_, _Jun. 2022_
+  This report completes a machine learning project _“Store Sales Time Series Forecasting”_ based on the LSTM (Long Short-Term Memory) network, SVR(Support Vector Regression), Random Forest, and Linear Regression models.
+  
 Internship Experience
 ======
 * **Soochow Securities Co., Ltd., Equity Research Intern**  
