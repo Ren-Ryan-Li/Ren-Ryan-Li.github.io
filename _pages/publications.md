@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 Thanks for your curiosity!  
-I'm passionate about acquiring more opportunities to enhance my research competence and appetite! 
-I'm seeking Research Assistant jobs in Finance, management science, and operations research for the summer of 2024 and later.
+I'm passionate about acquiring more opportunities to uplevel my research competence and appetite! 
+I'm seeking Research Assistant jobs in Econometrics, Management Science, and Operations Research for the summer of 2024 and later.
 
 Research
 ======
