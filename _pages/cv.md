@@ -30,7 +30,7 @@ Research Experience
 
 Project Experience
 ======
-* [**Time Series Prediction of Store Sales Based on LSTM and Several Models**](assets/2013455_李任_机器学习大作业.pdf)  
+* [**Time Series Prediction of Store Sales Based on LSTM and Several Models**](../assets/2013455_李任_机器学习大作业.pdf)  
   _Personal Project_, _Jun. 2022_  
   This report completes a machine learning project _“Store Sales Time Series Forecasting”_ based on the LSTM (Long Short-Term Memory) network, SVR(Support Vector Regression), Random Forest, and Linear Regression models.
   
