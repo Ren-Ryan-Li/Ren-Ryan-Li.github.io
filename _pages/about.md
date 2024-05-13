@@ -18,8 +18,3 @@ My CV: [Curriculum Vitae](../assets/CurriculumVitae.pdf)
 Useful Links: [Email](mailto:2013455@mail.nankai.edu.cn)/[Wechat](../images/Wechat.jpg)/[Twitter](https://twitter.com/RyanLee32714932)/[Github](https://github.com/Ren-Ryan-Li)/[Linkedin](https://www.linkedin.com/in/%E4%BB%BB-%E6%9D%8E-8692b9225/)
 
 This website is updated until 2024-5-9.
-
-Hit Counters Since May 2024:  
-<div id="sfcy3fjh9g488wbfmlunmt7n3y8bnkgds3m"></div>
-<script type="text/javascript" src="https://counter4.optistats.ovh/private/counter.js?c=y3fjh9g488wbfmlunmt7n3y8bnkgds3m&down=async" async></script>
-<noscript><a href="https://www.freecounterstat.com" title="free website counter"><img src="https://counter4.optistats.ovh/private/freecounterstat.php?c=y3fjh9g488wbfmlunmt7n3y8bnkgds3m" border="0" title="free website counter" alt="free website counter"></a></noscript>
