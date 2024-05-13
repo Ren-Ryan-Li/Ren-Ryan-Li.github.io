@@ -19,6 +19,7 @@ Useful Links: [Email](mailto:2013455@mail.nankai.edu.cn)/[Wechat](../images/Wech
 
 This website is updated until 2024-5-9.
 
-<div id="sfcmn4x4ysfcrhzuygf74mx398g6j6mg1uu"></div>
-<script type="text/javascript" src="https://counter4.optistats.ovh/private/counter.js?c=mn4x4ysfcrhzuygf74mx398g6j6mg1uu&down=async" async></script>
-<noscript><a href="https://www.freecounterstat.com" title="hit counter free"><img src="https://counter4.optistats.ovh/private/freecounterstat.php?c=mn4x4ysfcrhzuygf74mx398g6j6mg1uu" border="0" title="hit counter free" alt="hit counter free"></a></noscript>
+Hit Counters Since May 2024:  
+<div id="sfcy3fjh9g488wbfmlunmt7n3y8bnkgds3m"></div>
+<script type="text/javascript" src="https://counter4.optistats.ovh/private/counter.js?c=y3fjh9g488wbfmlunmt7n3y8bnkgds3m&down=async" async></script>
+<noscript><a href="https://www.freecounterstat.com" title="free website counter"><img src="https://counter4.optistats.ovh/private/freecounterstat.php?c=y3fjh9g488wbfmlunmt7n3y8bnkgds3m" border="0" title="free website counter" alt="free website counter"></a></noscript>
