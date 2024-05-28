@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 &nbsp;
-_"Research is like a walking journey, always on the road, always exploring, and always embracing discoveries with passion and curiosity."_
+_Research is like a walking journey, always on the road, always exploring, and always embracing discoveries with passion and curiosity._
 
 
 
