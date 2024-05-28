@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-&nbsp;
-&nbsp;
+
+<br/>
 "_Research is like a walking journey, always on the road, always exploring, and always embracing discoveries with passion and curiosity._"
 &nbsp;
 
