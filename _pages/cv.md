@@ -23,7 +23,7 @@ Research Experience
   Based on the dataset of the company stocks listed on the Beijing Stock Exchange, this paper uses the Fama-Macbeth regression method to examine the influence of the popularity and liquidity factors on the stock’s excess return.  
   _Empirical Model: Fama-MacBeth Regression_
 
-* [**Exploration of the Influencing Factors of Stock Market Volatility**](../assets/股票市场波动性的影响因子探究.pdf)  
+* [**An Exploration of the Factors Influencing Stock Market Volatility Based on the Herd Effect**](../assets/股票市场波动性的影响因子探究-基于羊群效应.pdf)  
   _Undergraduate Thesis_, _May. 2024_  
   This paper adopts a combination of theoretical analysis, descriptive statistical analysis, and empirical analysis to study the static and dynamic stock market herding effect and the factors influencing stock market volatility.  
   _Empirical Model: Time-varying Coefficient Linear Regression_
