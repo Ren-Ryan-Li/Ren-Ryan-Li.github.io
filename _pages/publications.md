@@ -7,6 +7,7 @@ author_profile: true
 
 Thanks for your curiosity!  
 My current research interests lie in Financial Econometrics, High-dimensional Statistics, Machine Learning, and Operations Research.   
+
 I am deeply committed to enhancing my research skills and refining my scholarly taste! As such, I am actively pursuing opportunities for Research Assistant and Collaboration positions in Financial Econometrics, Statistics, Management Science, and Operations Research for the summer of 2024 and beyond!
 
 Research
