@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 Thanks for your curiosity!  
-I'm passionate about acquiring more opportunities to uplevel my research competence and taste!    
-I'm seeking Research Assistant jobs in Econometrics, Management Science, and Operations Research for the summer of 2024 and later.
+My current research interests have been in Financial Econometrics, High-dimensional Statistics, Machine Learning, and Operations Research.   
+I'm passionate about acquiring more opportunities to uplevel my research competence and research taste!    
+I'm seeking Research Assistant jobs in Financial Econometrics, Statistics, Management Science, and Operations Research for the summer of 2024 and later.
 
 Research
 ======
