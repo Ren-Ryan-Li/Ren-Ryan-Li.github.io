@@ -24,4 +24,4 @@ Research
   
 Publication
 ======
-Waiting for more remarkable research jobs to build a solid foundation for publication.
+Waiting for more remarkable research experience to build a solid foundation for publication.
