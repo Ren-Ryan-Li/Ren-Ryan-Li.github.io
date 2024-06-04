@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-&nbsp;
 > "_Research is like a walking journey, always on the road, always exploring, and always embracing discoveries with passion and curiosity._"
-
 
 
 Welcome! My name is Ren (Ryan) Li. I am a senior undergraduate studying finance and statistics at the [School of Finance](http://en.finance.nankai.edu.cn/), [Nankai University](https://en.nankai.edu.cn/) (NKUSF). I am also an incoming master's student of Fintech supervised by [Prof. Tingting Cheng](https://sites.google.com/site/tingtingcheng2014/home) at NKUSF in Fall 2024.
