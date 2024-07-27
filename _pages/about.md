@@ -15,7 +15,7 @@ Aspiring to build appropriate yet parsimonious statistics models tailored for pr
 My current research interests have been in:
 - (i) Financial Econometrics,
 - (ii) High-dimensional Statistics, 
-- (iii) Machine Learning& Deep Learning.
+- (iii) Machine Learning&Deep Learning.
 
 My CV: [Curriculum Vitae](../assets/CurriculumVitae.pdf)  
 Useful Links: [Email](mailto:2013455@mail.nankai.edu.cn): ren-ryan-li@mail.nankai.edu.cn/[Wechat](../images/Wechat.jpg)/[Twitter](https://twitter.com/RyanLee32714932)/[Linkedin](https://www.linkedin.com/in/%E4%BB%BB-%E6%9D%8E-8692b9225/)
