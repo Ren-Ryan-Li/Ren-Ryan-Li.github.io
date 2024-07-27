@@ -1,9 +1,11 @@
+<div style='display: none'>
 ---
 layout: archive
 title: "Research and Publications"
 permalink: /publications/
 author_profile: true
 ---
+</div>
 
 > "_问渠哪得清如许，唯有源头活水来。_"
 > <p align="right">  —— 朱熹 </p>
@@ -26,4 +28,4 @@ Research
   
 Publication
 ======
-Waiting for more remarkable research experience to build a solid foundation for publication.
+Wait for more remarkable research experience to build a solid foundation for publication.
