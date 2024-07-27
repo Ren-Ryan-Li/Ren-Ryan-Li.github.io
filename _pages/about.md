@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Welcome! My name is Ren (Ryan) Li. I am a master's student of Fintech supervised by [Prof. Tingting Cheng](https://sites.google.com/site/tingtingcheng2014/home) at the [School of Finance](http://en.finance.nankai.edu.cn/), [Nankai University](https://en.nankai.edu.cn/)(NKUSF). I also obtained my bachelor's degree in finance from NKUSF in 2024. 
+Welcome! My name is Ren (Ryan) Li. I am a master's student of Fintech supervised by [Prof. Tingting Cheng](https://sites.google.com/site/tingtingcheng2014/home) at the [School of Finance](http://en.finance.nankai.edu.cn/), [Nankai University](https://en.nankai.edu.cn/). I also obtained my bachelor's degree in finance from Nankai University in 2024. 
 
 Aspiring to build appropriate yet parsimonious statistics models tailored for practical application and address frontier problems in the real world with precise mathematical and simulation methods, I am committed to pursuing a p.h.d. in Econometrics, Statistics, and related fields. 
 
