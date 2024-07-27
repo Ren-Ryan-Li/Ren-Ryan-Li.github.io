@@ -13,8 +13,8 @@ Welcome! My name is Ren (Ryan) Li. I am a master's student of Fintech supervised
 Aspiring to build appropriate yet parsimonious statistics models tailored for practical application and address frontier problems in the real world with precise mathematical and simulation methods, I am committed to pursuing a p.h.d. in Econometrics, Statistics, and related fields. 
 
 My current research interests have been in:
-- (i) Financial Econometrics
-- (ii) High-dimensional Statistics 
+- (i) Financial Econometrics,
+- (ii) High-dimensional Statistics, 
 - (iii) Machine Learning& Deep Learning.
 
 My CV: [Curriculum Vitae](../assets/CurriculumVitae.pdf)  
