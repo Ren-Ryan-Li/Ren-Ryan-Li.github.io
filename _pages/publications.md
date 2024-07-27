@@ -5,10 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Thanks for your curiosity!  
-My current research interests lie in Financial Econometrics, High-dimensional Statistics, Machine Learning, and Operations Research.   
+> "_问渠哪得清如许，唯有源头活水来。_"
+> <p align="right">  —— 朱熹 </p>
 
-I am deeply committed to enhancing my research skills and refining my scholarly taste! As such, I am actively pursuing opportunities for Research Assistant and Collaboration positions in Financial Econometrics, Statistics, Management Science, and Operations Research for the summer of 2024 and beyond!
+My current research interests lie in Financial Econometrics, High-dimensional Statistics, and Machine Learning.   
+
+I am deeply committed to enhancing my research skills and refining my scholarly taste! As such, I am actively pursuing opportunities for Research Assistant and Collaboration positions in Financial Econometrics and Statistics for the fall of 2024 and beyond!
 
 Research
 ======
