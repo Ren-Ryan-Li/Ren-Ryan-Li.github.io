@@ -1,3 +1,7 @@
+
+> "_问渠哪得清如许，唯有源头活水来。_"
+> <p align="right">  —— 朱熹 </p>
+
 ---
 permalink: /
 title: "About Me"
