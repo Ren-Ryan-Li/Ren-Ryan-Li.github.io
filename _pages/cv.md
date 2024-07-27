@@ -33,7 +33,15 @@ Project Experience
 * **Time Series Prediction of Store Sales Based on LSTM and Several Models** [**[Chinese Edition]**](../assets/2013455_李任_机器学习大作业.pdf)  
   _Personal Project_, _Jun. 2022_  
   This report completes a machine learning project _“Store Sales Time Series Forecasting”_ based on the LSTM (Long Short-Term Memory) network, SVR(Support Vector Regression), Random Forest, and Linear Regression models.
-  
+
+Skills
+======
+* **Language**  
+  Chinese (Native), English(CET6 (601), IELTS (6.5))
+* **Coding**  
+  Python (Efficient), R (Basic), MATLAB (Basic)  
+  Machine Learning (Keras, Tensorflow, etc.), Data Processing (Pandas, Seaborn, etc.)
+ 
 Internship Experience
 ======
 * **Soochow Securities Co., Ltd., Equity Research Intern**  
@@ -47,12 +55,4 @@ Internship Experience
   * **Financial Analysis:** Conduct in-depth analysis of bond issuers' operating ability, solvency, profitability, and other financial conditions based on their financial reports, audit reports, and rating reports. Also, assess the impact of major events such as corporate mergers and acquisitions on their financial conditions;  
   * **Document Preparation:** Write project initiation reports, prospectuses, explanatory documents, due diligence reports, bond redemption, and interest payment announcements for bond issuance (e.g., corporate bonds, inter-bank bonds, etc.).  Publish relevant documents on regulatory platforms such as the Shanghai Stock Exchange and Nafmii (National Association of Financial Market Institutional Investors);  
   * **Market Research and Other Duties:** Refine and compile business, credit, financial, and other information of companies with potential debt financing needs; Analyze target customer companies; Attend training meetings held by Stock Exchanges and take meeting minutes; Complete other related tasks assigned by mentors.
-  
-Skills
-======
-* **Language**  
-  Chinese (Native), English(CET6 (601), IELTS (6.5))
-* **Coding**  
-  Python (Efficient), R (Basic), MATLAB (Basic)  
-  Machine Learning (Keras, Tensorflow, etc.), Data Processing (Pandas, Seaborn, etc.)
- 
+
