@@ -23,6 +23,6 @@ Useful Links: [Email](mailto:2013455@mail.nankai.edu.cn)/[Wechat](../images/Wech
 
 
   > "_问渠哪得清如许，唯有源头活水来。_"
-> <p align="right">  ———— 朱熹 </p>
+> <p align="right">  ———朱熹 </p>
 
 This website was established on 2024-5-6 and updated until 2024-7-27.
