@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Fintech, Nankai University, 2024-2026(Expected)
+* M.S. in Fintech, Nankai University, 2024-2026 (Expected)
 * B.A. in Finance, Nankai University, 2020-2024
 
 Research Experience
