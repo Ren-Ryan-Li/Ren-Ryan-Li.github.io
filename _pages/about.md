@@ -18,6 +18,6 @@ My current research interests have been in:
 - (iii) Machine Learning& Deep Learning.
 
 My CV: [Curriculum Vitae](../assets/CurriculumVitae.pdf)  
-Useful Links: [Email](mailto:2013455@mail.nankai.edu.cn)/[Wechat](../images/Wechat.jpg)/[Twitter](https://twitter.com/RyanLee32714932)/[Github](https://github.com/Ren-Ryan-Li)/[Linkedin](https://www.linkedin.com/in/%E4%BB%BB-%E6%9D%8E-8692b9225/)
+Useful Links: [Email](mailto:2013455@mail.nankai.edu.cn): ren-ryan-li@mail.nankai.edu.cn/[Wechat](../images/Wechat.jpg)/[Twitter](https://twitter.com/RyanLee32714932)/[Linkedin](https://www.linkedin.com/in/%E4%BB%BB-%E6%9D%8E-8692b9225/)
 
-This website was established on 2024-5-6 and updated until 2024-7-27.
+This website was established on May 6, 2024, and updated until July 27, 2024.
