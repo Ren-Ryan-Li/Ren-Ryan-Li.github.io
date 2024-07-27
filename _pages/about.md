@@ -17,7 +17,8 @@ Aspiring to address frontier problems in the real world and to delve into the fu
 My CV: [Curriculum Vitae](../assets/CurriculumVitae.pdf)  
 Useful Links: [Email](mailto:2013455@mail.nankai.edu.cn)/[Wechat](../images/Wechat.jpg)/[Twitter](https://twitter.com/RyanLee32714932)/[Github](https://github.com/Ren-Ryan-Li)/[Linkedin](https://www.linkedin.com/in/%E4%BB%BB-%E6%9D%8E-8692b9225/)
 
+
 > "_问渠哪得清如许，唯有源头活水来。_"
-> <p align="right">-- 朱熹</p>
+> <p align="right"> ———— 朱熹</p>
 
 This website was established on 2024-5-6 and updated until 2024-5-27.
