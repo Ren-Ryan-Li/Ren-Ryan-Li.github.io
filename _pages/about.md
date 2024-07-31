@@ -16,7 +16,7 @@ My current research interests are:
 - (i) Econometric Theory,
 - (ii) High-dimensional Statistics, 
 - (iii) Machine Learning & Deep Learning,
-- (iV) Operations Management.
+- (iv) Operations Management.
 
 My CV: [Curriculum Vitae](../assets/CurriculumVitae.pdf)  
 Useful Links: [Email](mailto:2013455@mail.nankai.edu.cn): ren-ryan-li@mail.nankai.edu.cn/[Wechat](../images/Wechat.jpg)/[Twitter](https://twitter.com/RyanLee32714932)/[Linkedin](https://www.linkedin.com/in/%E4%BB%BB-%E6%9D%8E-8692b9225/)
