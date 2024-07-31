@@ -8,14 +8,15 @@ redirect_from:
 ---
 
 
-Welcome! My name is Ren (Ryan) Li. I am a master's student of Fintech supervised by [Prof. Tingting Cheng](https://sites.google.com/site/tingtingcheng2014/home) at the [School of Finance](http://en.finance.nankai.edu.cn/), [Nankai University](https://en.nankai.edu.cn/). I also obtained my bachelor's degree in finance from Nankai University in 2024. 
+Welcome! My name is Ren (Ryan) Li. I am a master's student of Fintech supervised by [Prof. Tingting Cheng](https://sites.google.com/site/tingtingcheng2014/home) at the [School of Finance](http://en.finance.nankai.edu.cn/), [Nankai University](https://en.nankai.edu.cn/). Before this, I obtained my bachelor's degree in finance from Nankai University in 2024. 
 
-Aspiring to build appropriate yet parsimonious statistics models tailored for practical application and address frontier problems in the real world with precise mathematical and simulation methods, I am committed to pursuing a p.h.d. in Econometrics, Statistics, and related fields. 
+With a strong aspiration to develop appropriate yet parsimonious statistical models tailored for practical industry applications and tackle cutting-edge challenges in the business world using precise mathematical and simulation methods, I am dedicated to pursuing a Ph.D. in Econometrics, Statistics, Operations Management, and related fields in fall 2026.
 
-My current research interests have been in:
-- (i) Financial Econometrics,
+My current research interests are:
+- (i) Econometric Theory,
 - (ii) High-dimensional Statistics, 
-- (iii) Machine Learning&Deep Learning.
+- (iii) Machine Learning & Deep Learning,
+- (iV) Operations Management.
 
 My CV: [Curriculum Vitae](../assets/CurriculumVitae.pdf)  
 Useful Links: [Email](mailto:2013455@mail.nankai.edu.cn): ren-ryan-li@mail.nankai.edu.cn/[Wechat](../images/Wechat.jpg)/[Twitter](https://twitter.com/RyanLee32714932)/[Linkedin](https://www.linkedin.com/in/%E4%BB%BB-%E6%9D%8E-8692b9225/)
