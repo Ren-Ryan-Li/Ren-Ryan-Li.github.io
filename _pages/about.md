@@ -13,10 +13,10 @@ Welcome! My name is Ren (Ryan) Li. I am a master's student of Fintech supervised
 With a strong aspiration to develop appropriate yet parsimonious statistical models tailored for practical industry applications and tackle cutting-edge challenges in the business world using precise mathematical and simulation methods, I am dedicated to pursuing a Ph.D. in Econometrics, Statistics, Operations Management, and related fields in fall 2026.
 
 My current research interests are:
-- (i) Econometric Theory,
-- (ii) High-dimensional Statistics, 
-- (iii) Machine Learning & Deep Learning,
-- (iv) Operations Management.
+- (i) High-dimensional Statistics,
+- (ii) Machine Learning & Deep Learning,
+- (iii) Reinforcement Learning,
+- (iv) Econometric Theory
 
 My CV: [Curriculum Vitae](../assets/CurriculumVitae.pdf)  
 Useful Links: [Email](mailto:2013455@mail.nankai.edu.cn): ren-ryan-li@mail.nankai.edu.cn/[Wechat](../images/Wechat.jpg)/[Twitter](https://twitter.com/RyanLee32714932)/[Linkedin](https://www.linkedin.com/in/%E4%BB%BB-%E6%9D%8E-8692b9225/)
