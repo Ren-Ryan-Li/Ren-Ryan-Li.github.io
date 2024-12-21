@@ -19,6 +19,6 @@ My current research interests are:
 - (iv) Econometric Theory
 
 My CV: [Curriculum Vitae](../assets/CurriculumVitae.pdf)  
-Contact: [Email](mailto:2013455@mail.nankai.edu.cn): ren-ryan-li\color{#FF0000}{[at]}mail[dot]nankai[dot]edu[dot]cn/[Wechat](../images/Wechat.jpg)/[Twitter](https://twitter.com/RyanLee32714932)/[Linkedin](https://www.linkedin.com/in/%E4%BB%BB-%E6%9D%8E-8692b9225/)
+Contact: [Email](mailto:2013455@mail.nankai.edu.cn): ren-ryan-li$\color{#FF0000}{[at]}$mail[dot]nankai[dot]edu[dot]cn/[Wechat](../images/Wechat.jpg)/[Twitter](https://twitter.com/RyanLee32714932)/[Linkedin](https://www.linkedin.com/in/%E4%BB%BB-%E6%9D%8E-8692b9225/)
 
 This website was established on May 6, 2024, and updated until July 27, 2024.
