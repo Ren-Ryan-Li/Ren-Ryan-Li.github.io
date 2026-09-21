@@ -11,6 +11,7 @@ redirect_from:
 <!--
 [Curriculum Vitae PDF](../assets/CurriculumVitae.pdf)  
 -->
+
 Education
 ======
 * RPG in MICS, HKUST(Guangzhou campus)
@@ -29,6 +30,7 @@ Research Experience
   This paper adopts a combination of theoretical analysis, descriptive statistical analysis, and empirical analysis to study the static and dynamic stock market herding effect and the factors influencing stock market volatility.  
   _Empirical Model: Time-varying Coefficient Linear Regression implemented by Local Linear Nonparametric Estimation_
 -->
+
 Project Experience
 ======
 * **Time Series Prediction of Store Sales Based on LSTM and Several Models** [**[Chinese Edition]**](../assets/2013455_李任_机器学习大作业.pdf)  
