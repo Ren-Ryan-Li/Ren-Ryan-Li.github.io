@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<!--
 [Curriculum Vitae PDF](../assets/CurriculumVitae.pdf)  
-
+-->
 Education
 ======
 * RPG in MICS, HKUST(Guangzhou campus)
