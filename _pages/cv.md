@@ -16,6 +16,7 @@ Education
 * RPG in MICS, HKUST(Guangzhou campus)
 * B.A. in Finance, Nankai University
 
+<!--
 Research Experience
 ======
 * **Stock Return Based on the Multifactor Model with Stock Liquidity and Popularity** [**[Chinese Edition]**](../assets/知名度因子及流动性因子对股票收益率影响研究.pdf)  
@@ -27,7 +28,7 @@ Research Experience
   _Undergraduate Thesis_, _May. 2024_  
   This paper adopts a combination of theoretical analysis, descriptive statistical analysis, and empirical analysis to study the static and dynamic stock market herding effect and the factors influencing stock market volatility.  
   _Empirical Model: Time-varying Coefficient Linear Regression implemented by Local Linear Nonparametric Estimation_
-
+-->
 Project Experience
 ======
 * **Time Series Prediction of Store Sales Based on LSTM and Several Models** [**[Chinese Edition]**](../assets/2013455_李任_机器学习大作业.pdf)  
