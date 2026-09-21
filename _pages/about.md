@@ -17,8 +17,7 @@ My current research interests are:
 - (ii) Multi-modal LLM
 - (iii) High-dimensional Statistics
 - (iv) The Application of (i), (ii), (iii) in Finance
-
-My CV: [Curriculum Vitae](../assets/CurriculumVitae.pdf)  
-Contact: [Email](mailto:2013455@mail.nankai.edu.cn): ren-ryan-li **[at]** mail **[dot]** nankai **[dot]** edu **[dot]** cn/[Wechat](../images/Wechat.jpg)/[Twitter](https://twitter.com/RyanLee32714932)/[Linkedin](https://www.linkedin.com/in/%E4%BB%BB-%E6%9D%8E-8692b9225/)
+ 
+Contact: [Email](mailto:2013455@mail.nankai.edu.cn): ren-ryan-li **[at]** mail **[dot]** nankai **[dot]** edu **[dot]** cn/[Wechat](../images/Wechat.jpg)/[Twitter](https://twitter.com/RyanLee32714932)
 
 This website was established on May 6, 2024, and updated until July 27, 2024.
