@@ -9,8 +9,8 @@ author_profile: true
 
 My current research interests lie in Financial Econometrics, High-dimensional Statistics, and Machine Learning.   
 
-I am deeply committed to enhancing my research skills and refining my scholarly taste! As such, I am actively pursuing opportunities for Research Assistant and Collaboration positions in Financial Econometrics and Statistics for the fall of 2024 and beyond!
 
+<!--
 Research
 ======
 * **Stock Return Based on the Multifactor Model with Stock Liquidity and Popularity** [**[Chinese Edition]**](../assets/知名度因子及流动性因子对股票收益率影响研究.pdf)  
@@ -22,7 +22,7 @@ Research
   _Undergraduate Thesis_, _May. 2024_  
   This paper adopts a combination of theoretical analysis, descriptive statistical analysis, and empirical analysis to study the static and dynamic stock market herding effect and the factors influencing stock market volatility.  
     _Empirical Model: Time-varying Coefficient Linear Regression implemented by Local Linear Nonparametric Estimation_
-  
+-->
 Publication
 ======
 Wait for more remarkable research experience to build a solid foundation for publication.
