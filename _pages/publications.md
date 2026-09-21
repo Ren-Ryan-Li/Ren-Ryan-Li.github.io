@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-My current research interests lie in Financial Econometrics, High-dimensional Statistics, and Machine Learning.   
+With an ultimate goal of making AI more accessible, more privacy-safe, and more convenient, my current research interests lie in AI accelerator design, AI inference chip design, efficient LLM training, and AI infra.   
 
 
 <!--
