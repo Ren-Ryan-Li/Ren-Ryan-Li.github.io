@@ -13,15 +13,15 @@ redirect_from:
 
 Education
 ======
-* M.S. in Fintech, Nankai University, 2024-2026 (Expected)
-* B.A. in Finance, Nankai University, 2020-2024
+* M.S. in Fintech, Nankai University
+* B.A. in Finance, Nankai University
 
 Research Experience
 ======
 * **Stock Return Based on the Multifactor Model with Stock Liquidity and Popularity** [**[Chinese Edition]**](../assets/知名度因子及流动性因子对股票收益率影响研究.pdf)  
   _Working Paper_, _Mar. 2023_  
-  Based on the dataset of the company stocks listed on the Beijing Stock Exchange, this paper uses the Fama-Macbeth regression method to examine the influence of the popularity and liquidity factors on the stock’s excess return.  
-  _Empirical Model: Fama-MacBeth Regression implemented by Ordinary Least Square Estimation_
+  Using a dataset of stocks listed on the Beijing Stock Exchange, this paper uses the Fama-MacBeth regression method to examine how popularity and liquidity factors affect a stock’s excess return.  
+  _Empirical Model: Fama-MacBeth Regression implemented by Ordinary Least Squares Estimation_
 
 * **An Exploration of the Factors Influencing Stock Market Volatility Based on the Herd Effect** [**[Chinese Edition]**](../assets/基于羊群效应对股票市场波动性影响因子的探究.pdf)  
   _Undergraduate Thesis_, _May. 2024_  
@@ -38,8 +38,8 @@ Internship Experience
 ======
 * **Soochow Securities Co., Ltd., Equity Research Intern**  
   _Media and Internet Sector_, _Dec. 2022-Feb. 2023_  
-  * **Data Analysis:** Search data from the Choice, Wind database and public information; Collect industry and key enterprise financial and operating data; Use Excel to integrate analysis and draw graphics;  
-  * **Industry Research:** Participate in road shows, earning calls, etc., and take meeting minutes; Assist in predicting the future trend of the Internet e-commerce industry by calculating market share and sinking market growth rate; Sort out the government regulatory policies of the Internet industry from 2019 to 2022, and analyze the impact of government’s policy shifts on the Internet platform economy;  
+  * **Data Analysis:** Search data from the Choice, Wind database, and public information; Collect industry and key enterprise financial and operating data; Use Excel to integrate analysis and draw graphics;  
+  * **Industry Research:** Participate in road shows, earnings calls, etc., and take meeting minutes; Assist in predicting the future trend of the Internet e-commerce industry by calculating market share and sinking market growth rate; Sort out the government regulatory policies of the Internet industry from 2019 to 2022, and analyze the impact of government’s policy shifts on the Internet platform economy;  
   * **In-depth Research:** Participate in co-authoring the comprehensive report _“The Review and Outlook of the Hong Kong Stock Exchange’s Bull Market”_, which reviews the bull market of the Hong Kong Stock Exchange from 2002 to 2023, focusing on economic fundamentals, government policies, domestic and international liquidity, and valuation factors. The report also compares the Hang Seng Index with the CSI 300 index and the S&P Index, concludes the reasons behind the bull market, and provides a forward-looking analysis of market prospects for both the Hong Kong stock market and the Internet sector.
 
 * **Everbright Securities Co., Ltd., Investment Banking Intern**  
@@ -51,8 +51,8 @@ Internship Experience
 Skills
 ======
 * **Language**  
-  Chinese (Native), English(CET6 (601), IELTS (6.5))
+  Chinese (Native), English(CET6 (601), IELTS (7.0))
 * **Coding**  
   Python (Efficient), R (Basic), MATLAB (Basic)  
-  Machine Learning (Keras, Tensorflow, etc.), Data Processing (Pandas, Seaborn, etc.)
+  Machine Learning (Keras, PyTorch, etc.), Data Processing (Pandas, Seaborn, etc.)
  
