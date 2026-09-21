@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Fintech, Nankai University
+* RPG in MICS, HKUST(Guangzhou campus)
 * B.A. in Finance, Nankai University
 
 Research Experience
