@@ -23,6 +23,8 @@ Research
   This paper adopts a combination of theoretical analysis, descriptive statistical analysis, and empirical analysis to study the static and dynamic stock market herding effect and the factors influencing stock market volatility.  
     _Empirical Model: Time-varying Coefficient Linear Regression implemented by Local Linear Nonparametric Estimation_
 -->
+
+
 Publication
 ======
 Wait for more remarkable research experience to build a solid foundation for publication.
