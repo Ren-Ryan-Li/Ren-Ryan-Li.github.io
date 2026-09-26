@@ -12,10 +12,10 @@ Welcome! My name is Ren (Ryan) Li. I am a research postgraduate student at [HKUS
 
 • My research goal is to push the frontier of efficient AI by co-designing algorithms, models, systems, architectures, and accelerators for next-generation foundation and embodied AI models. Thus, my research interests are as follows:
 
-- (i) **Systems and Architectures for Embodied AI:** Efficient and real-time computing systems and specialized architectures for embodied foundation models, robotics, and autonomous agents.
-- (ii) **Memory and Data-Movement-Efficient AI:** Memory-efficient architectures and systems that reduce memory footprint, bandwidth demand, and data movement for AI workloads.
-- (iii) **Model–System–Hardware Co-design:** Joint optimization of models, algorithms, systems, and hardware architectures for end-to-end AI efficiency.
-- (iv) **Efficient AI Algorithms:** Hardware-aware techniques such as quantization, sparsity, pruning, low-rank approximation, and efficient attention for reducing computation, memory, and energy costs.
+- **Systems and Architectures for Embodied AI:** Efficient and real-time computing systems and architectures for embodied foundation models, robotics, and autonomous agents.
+- **Memory-Efficient AI:** Memory-efficient architectures and systems that reduce memory footprint, bandwidth demand, and data movement for AI workloads.
+- **Model–System–Hardware Co-design:** Joint optimization of models, algorithms, systems, and hardware architectures for end-to-end AI efficiency.
+- **Efficient AI Algorithms:** Hardware-aware techniques such as quantization, sparsity, pruning, low-rank approximation, and efficient algorithms for reducing computation, memory, and energy costs.
 
 • Ultimately, I hope not only to make fundamental research breakthroughs but also to turn them into real technologies, products, and companies that shape the future of intelligent computing and create meaningful and lasting impact in both industry and society.
  
